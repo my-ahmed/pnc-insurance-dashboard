@@ -1,0 +1,16 @@
+# Raw source data (large, not needed for reproducibility)
+data/raw/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+
+# Compressed archive (redundant with .pbix)
+*.7z
+
+# OS
+.DS_Store
+Thumbs.db

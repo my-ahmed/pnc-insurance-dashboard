@@ -1,0 +1,51 @@
+geography_id,state,state_full,region,cat_zone,latitude,longitude
+GEO-AL,AL,Alabama,Southeast,Medium,32.806671,-86.79113
+GEO-AK,AK,Alaska,West,Low,61.370716,-152.404419
+GEO-AZ,AZ,Arizona,Southwest,Medium,33.729759,-111.431221
+GEO-AR,AR,Arkansas,Southeast,Medium,34.969704,-92.373123
+GEO-CA,CA,California,West,High,36.116203,-119.681564
+GEO-CO,CO,Colorado,West,Low,39.059811,-105.311104
+GEO-CT,CT,Connecticut,Northeast,Low,41.597782,-72.755371
+GEO-DE,DE,Delaware,Northeast,Low,39.318523,-75.507141
+GEO-FL,FL,Florida,Southeast,High,27.766279,-81.686783
+GEO-GA,GA,Georgia,Southeast,Medium,33.040619,-83.643074
+GEO-HI,HI,Hawaii,West,Medium,21.094318,-157.498337
+GEO-ID,ID,Idaho,West,Low,44.240459,-114.478828
+GEO-IL,IL,Illinois,Midwest,Low,40.349457,-88.986137
+GEO-IN,IN,Indiana,Midwest,Low,39.849426,-86.258278
+GEO-IA,IA,Iowa,Midwest,Low,42.011539,-93.210526
+GEO-KS,KS,Kansas,Midwest,Medium,38.5266,-96.726486
+GEO-KY,KY,Kentucky,Southeast,Low,37.66814,-84.670067
+GEO-LA,LA,Louisiana,Southeast,High,31.16996,-91.867805
+GEO-ME,ME,Maine,Northeast,Low,44.693947,-69.381927
+GEO-MD,MD,Maryland,Northeast,Low,39.063946,-76.802101
+GEO-MA,MA,Massachusetts,Northeast,Low,42.230171,-71.530106
+GEO-MI,MI,Michigan,Midwest,Low,43.326618,-84.536095
+GEO-MN,MN,Minnesota,Midwest,Low,45.694454,-93.900192
+GEO-MS,MS,Mississippi,Southeast,High,32.741646,-89.678696
+GEO-MO,MO,Missouri,Midwest,Medium,38.456085,-92.288368
+GEO-MT,MT,Montana,West,Low,46.921925,-110.454353
+GEO-NE,NE,Nebraska,Midwest,Medium,41.12537,-98.268082
+GEO-NV,NV,Nevada,West,Low,38.313515,-117.055374
+GEO-NH,NH,New Hampshire,Northeast,Low,43.452492,-71.563896
+GEO-NJ,NJ,New Jersey,Northeast,Low,40.298904,-74.521011
+GEO-NM,NM,New Mexico,Southwest,Medium,34.840515,-106.248482
+GEO-NY,NY,New York,Northeast,Low,42.165726,-74.948051
+GEO-NC,NC,North Carolina,Southeast,Medium,35.630066,-79.806419
+GEO-ND,ND,North Dakota,Midwest,Low,47.528912,-99.784012
+GEO-OH,OH,Ohio,Midwest,Low,40.388783,-82.764915
+GEO-OK,OK,Oklahoma,Southwest,High,35.565342,-96.928917
+GEO-OR,OR,Oregon,West,Low,44.572021,-122.070938
+GEO-PA,PA,Pennsylvania,Northeast,Low,40.590752,-77.209755
+GEO-RI,RI,Rhode Island,Northeast,Low,41.680893,-71.51178
+GEO-SC,SC,South Carolina,Southeast,Medium,33.856892,-80.945007
+GEO-SD,SD,South Dakota,Midwest,Low,44.299782,-99.438828
+GEO-TN,TN,Tennessee,Southeast,Medium,35.747845,-86.692345
+GEO-TX,TX,Texas,Southwest,High,31.054487,-97.563461
+GEO-UT,UT,Utah,West,Low,40.150032,-111.862434
+GEO-VT,VT,Vermont,Northeast,Low,44.045876,-72.710686
+GEO-VA,VA,Virginia,Southeast,Low,37.769337,-78.169968
+GEO-WA,WA,Washington,West,Medium,47.400902,-121.490494
+GEO-WV,WV,West Virginia,Southeast,Low,38.491226,-80.954453
+GEO-WI,WI,Wisconsin,Midwest,Low,44.268543,-89.616508
+GEO-WY,WY,Wyoming,West,Low,42.755966,-107.30249

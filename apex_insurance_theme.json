@@ -1,0 +1,22 @@
+{
+  "name": "Apex Insurance",
+  "dataColors": [
+    "#0072CE",
+    "#1B3A6B",
+    "#217346",
+    "#C55A11",
+    "#C00000",
+    "#5B2D8E",
+    "#006B75"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B3A6B",
+  "tableAccent": "#0072CE",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }]
+      }
+    }
+  }
+}
